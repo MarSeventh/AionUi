@@ -723,8 +723,8 @@ AionUi のローカル開発では、Electron フロントエンド用の AionUi
 ## Star 履歴
 
 <p align="center">
-  <a href="https://star-history.dera.page/#iofficeai/aionui&amp;type=date&amp;legend=top-left" target="_blank">
-    <img src="https://star-history.dera.page/svg?repos=iofficeai%2Faionui&amp;type=Date" alt="Star History" width="600">
+  <a href="https://star-history.dera.page/#MarSeventh/AionUi&amp;type=date&amp;legend=top-left" target="_blank">
+    <img src="https://star-history.dera.page/svg?repos=MarSeventh%2FAionUi&amp;type=Date" alt="Star History" width="600">
   </a>
 </p>
 

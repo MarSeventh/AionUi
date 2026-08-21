@@ -753,8 +753,8 @@ AionUi 本機開發涉及兩個倉庫：AionUi 負責 Electron 前端，AionCore
 ## Star 歷史
 
 <p align="center">
-  <a href="https://star-history.dera.page/#iofficeai/aionui&amp;type=date&amp;legend=top-left" target="_blank">
-    <img src="https://star-history.dera.page/svg?repos=iofficeai%2Faionui&amp;type=Date" alt="Star History" width="600">
+  <a href="https://star-history.dera.page/#MarSeventh/AionUi&amp;type=date&amp;legend=top-left" target="_blank">
+    <img src="https://star-history.dera.page/svg?repos=MarSeventh%2FAionUi&amp;type=Date" alt="Star History" width="600">
   </a>
 </p>
 
